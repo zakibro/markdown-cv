@@ -1,23 +1,26 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Paweł Mazur's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Paweł Mazur
+Software Tester, Infosec enthusiast
+
+[LinkedIn](https://www.linkedin.com/in/ppppapwel/)
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="pawelmazur835@gmail.com">pawelmazur835@gmail.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Junior Tester in LIBRUS spółka z ograniczoną odpowiedzialnością sp. k. 
+`Dec 2019 - now`
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Software testing, Test Planing, Agile Testing, Penetration Testing, Vulnerability Assessment, Linux (BTW I use Arch),
+Java, Selenium, Jira, OWASP TOP 10, MySQL
 
 
 ### Research interests
@@ -27,22 +30,24 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018-2019`
+__AGH University of Science and Technology__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- PgC, Cybersecurity
 
-- Sizar
+`2016 - 2018`
+__University of Bielsko-Biala__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Master's degree, International Management
 
-- Fellow
+`2013 - 2016`
+__University of Bielsko-Biala__
+
+- Bachelor's degree, English - Language Interpretation and Translation
 
 
 
-## Awards
+## Certifications
 
 `2012`
 President, *Royal Society*, London, UK
@@ -51,11 +56,11 @@ Associate, *French Academy of Science*, Paris, France
 
 
 
-## Publications
+## Courses
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Interests
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
