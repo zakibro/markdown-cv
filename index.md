@@ -6,6 +6,7 @@ title: Paweł Mazur's CV
 Software Tester, Infosec enthusiast
 
 [LinkedIn](https://www.linkedin.com/in/ppppapwel/)
+[GitHub](https://github.com/zakibro/)
 
 <div id="webaddress">
 <a href="pawelmazur835@gmail.com">pawelmazur835@gmail.com</a>
@@ -17,15 +18,11 @@ Software Tester, Infosec enthusiast
 Junior Tester in LIBRUS spółka z ograniczoną odpowiedzialnością sp. k. 
 `Dec 2019 - now`
 
+
 ### Specialized in
 
-Software testing, Test Planing, Agile Testing, Penetration Testing, Vulnerability Assessment, Linux (BTW I use Arch),
-Java, Selenium, Jira, OWASP TOP 10, MySQL
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Software testing, Test Planing, Agile Testing, Penetration Testing, Web Application Penetration Testing, Vulnerability Assessment, Linux (BTW I use Arch),
+Java, Selenium, Jira, OWASP TOP 10, MySQL, PageObjectPattern, JUnit, OWASP ZAP, Information Gathering, Web Application Security Assessment, REST API, Postman
 
 
 ## Education
@@ -46,51 +43,41 @@ __University of Bielsko-Biala__
 - Bachelor's degree, English - Language Interpretation and Translation
 
 
-
 ## Certifications
 
-`2012`
-President, *Royal Society*, London, UK
+`2020`
+eWPT, *eLearnSecurity*
 
-Associate, *French Academy of Science*, Paris, France
+Credential ID, *4453787*, [Credential URL](https://verified.elearnsecurity.com/certificates/ef9d42bb-05d4-4ff6-b2b3-ffe01b1a481a)
 
+`2020`
+eJPT, *eLearnSecurity*
 
+Credential ID, *4261877*, [Credential URL](https://verified.elearnsecurity.com/certificates/568eb024-2975-4a17-85ea-47461abadcc4)
+
+`2019`
+Foundation Level ISTQB, *International Software Testing Qualifications Board*
+
+Credential ID, *12990/FLCT/2019*
 
 ## Courses
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2020 - 2020`
+__CodersLab__
+
+- Automated Tester
+
+`2019 - 2019`
+__CodersLab__
+
+- Manual Tester
 
 ### Interests
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+Cybersecurity, Bass Guitar, IT Books, CTFs, BugBounties
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Sep 2020 -->
 
 
