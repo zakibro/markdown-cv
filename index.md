@@ -49,7 +49,7 @@ __University of Bielsko-Biala__
 eWPT, *eLearnSecurity* 
 <img src="eWPT_v1_certificate_sm.png"
      alt="eWPT logo"
-     style="float: left; margin-right: 10px;" />
+     style="width:250px;height:250px;" />
 
 Credential ID, *4453787*, [Credential URL](https://verified.elearnsecurity.com/certificates/ef9d42bb-05d4-4ff6-b2b3-ffe01b1a481a) 
 
