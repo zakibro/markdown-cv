@@ -47,7 +47,7 @@ __University of Bielsko-Biala__
 
 `2020`
 eWPT, *eLearnSecurity* 
-<img src="(eWPT_v1_certificate_sm.png"
+<img src="eWPT_v1_certificate_sm.png"
      alt="eWPT logo"
      style="float: left; margin-right: 10px;" />
 
