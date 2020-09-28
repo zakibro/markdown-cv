@@ -43,10 +43,9 @@ __University of Bielsko-Biala__
 - Bachelor's degree, English - Language Interpretation and Translation
 
 
-## Certifications
-<img src="eWPT_v1_certificate_sm.png"
-     alt="eWPT logo" />
-
+## Certifications 
+<img src="eWPT_v1_certificate_sm.png" alt="eWPT logo" /> <img src="ejpt_certificate_sm.png" alt="eJPT logo" />
+     
 `2020`
 eWPT, *eLearnSecurity* 
 
