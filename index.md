@@ -44,7 +44,8 @@ __University of Bielsko-Biala__
 
 
 ## Certifications 
-<img src="eWPT_v1_certificate_sm.png" alt="eWPT logo" /> <img src="ejpt_certificate_sm.png" alt="eJPT logo" />
+`2020`
+BTL1, *Security Blue Team*[IN PROGRESS] 
      
 `2020`
 eWPT, *eLearnSecurity* 
