@@ -22,7 +22,7 @@ Junior Tester in LIBRUS spółka z ograniczoną odpowiedzialnością sp. k.
 ### Specialized in
 
 Software testing, Test Planing, Agile Testing, Penetration Testing, Web Application Penetration Testing, Vulnerability Assessment, Linux (BTW I use Arch),
-Java, Selenium, Jira, OWASP TOP 10, MySQL, PageObjectPattern, JUnit, OWASP ZAP, Information Gathering, Web Application Security Assessment, REST API, Postman
+Java, Selenium, Jira, OWASP TOP 10, MySQL, PageObjectPattern, JUnit, OWASP ZAP, Information Gathering, Web Application Security Assessment, REST API, Postman, Blue Team, Cyber Defense, Cyber Security, Digital Forensics, Endpoint Security, Incident Report Writing, Incident Response, Information Security, Network Security, Phishing Analysis, Security Investigations, Security Operations, SIEM, SOC, MITRE ATT&CK
 
 
 ## Education
@@ -84,6 +84,6 @@ Cybersecurity, Bass Guitar, IT Books, CTFs, BugBounties
 
 <!-- ### Footer
 
-Last updated: Oct 2020 -->
+Last updated: Nov 2020 -->
 
 
